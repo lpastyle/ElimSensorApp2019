@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ElimSensorApp</string>
+    <string name="sensor_list">Sensor list</string>
+    <string name="sensor_values">Sensor values</string>
+    <string name="type_caption">Type:</string>
+    <string name="resolution_caption">Resolution:</string>
+    <string name="range_caption">Max range:</string>
+    <string name="sensor_name">sensor name</string>
+    <string name="empty_value">&lt;value&gt;</string>
+    <string name="unsupported_sensor_type">Unsupported sensor type</string>
+    <string name="compass_caption">V[0]=</string>
+    <string name="no_values">No values &#8230;</string>
+</resources>
